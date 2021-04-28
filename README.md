@@ -1,4 +1,4 @@
-# Project Name
+# Social Network
   ![badge](https://img.shields.io/badge/Created_With-LOVE-pink.svg)
 
 > This is a tool to help visually organize a team.
